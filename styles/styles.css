@@ -1,0 +1,22 @@
+  
+*, *:before, *:after {
+    
+}
+
+.title, .subtitle {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-body {
+    background: url("radar-photo.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
